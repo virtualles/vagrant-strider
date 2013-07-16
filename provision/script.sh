@@ -2,7 +2,7 @@
 
 echo "start provision script"
 
-set -e # Exit script  on first error
+set -e # Exit script on first error
 set -x # Print commands as executed
 
 # Uodate packages
