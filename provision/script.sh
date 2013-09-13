@@ -24,7 +24,7 @@ nvm alias default v0.10.0
 git clone https://github.com/Strider-CD/strider.git
 cd ~/strider && npm install
 
-cd ~/strider &&  npm install nodemon nomnom step underscore bcrypt mongoose everypaas winston passport pw apres async nodemailer moment jade ansiparse request socket.io cookie express passport-github passport-local connect-mongo validator swig strider-extension-loader stylus gitane gumshoe strider-simple-worker
+cd ~/strider &&  npm install nodemon nomnom step underscore bcrypt lodash mongoose everypaas winston passport pw apres async nodemailer moment jade ansiparse request socket.io cookie express passport-github passport-local connect-mongo validator swig strider-extension-loader stylus gitane gumshoe strider-simple-worker
 
 # Start/Restart services/
 sudo service mongodb restart
