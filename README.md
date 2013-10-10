@@ -25,3 +25,7 @@ $ vagrant destroy
 - [Vagrant](http://www.vagrantup.com): Create and configure lightweight, reproducible, and portable development environments
 - [VirtualBox](http://www.virtualbox.org): Virtualization software
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gdumitrescu/vagrant-strider/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
